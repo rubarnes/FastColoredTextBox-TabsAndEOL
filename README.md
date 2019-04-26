@@ -1,5 +1,7 @@
-FastColoredTextBox
+FastColoredTextBox-TabsAndEOL
 ==================
+
+Forked from https://github.com/PavelTorgashov/FastColoredTextBox
 
 Fast Colored TextBox is text editor component for .NET.
 Allows you to create custom text editor with syntax highlighting.
